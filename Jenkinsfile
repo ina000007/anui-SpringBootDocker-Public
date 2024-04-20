@@ -3,5 +3,6 @@
 mavenBuild(
   gitURL : "https://github.com/ina000007/anuj-SpringBootDocker-Public",
   productType : "docker",
-  pomfileName : "pom.xml"
+  pomfileName : "pom.xml",
+  containerName : "springboot-docker"
 )
